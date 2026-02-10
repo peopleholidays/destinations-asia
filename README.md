@@ -1,36 +1,31 @@
-# destinations-asia
-Travel destinations, itineraries and insights across Asia and South-East Asia Countries for Indian travelers.
-# 🌏 Destinations in Asia & South-East Asia
+# Destinations in Asia | People Holidays – Asia Tour Packages from Mumbai
 
-This repository represents People Holidays’ expertise in travel across Asia and South-East Asia for Indian travelers and NRIs.
+People Holidays is a Mumbai-based travel agency and tour operator offering
+customised Asia tour packages for Indian travellers and NRIs.
 
-We design international travel experiences covering cultural cities, tropical islands, modern metros, and leisure destinations across popular Asian countries.
+We plan Asia holidays from Mulund (West), Mumbai with a focus on
+comfort, clear itineraries, and stress-free travel.
 
----
+🌐 Website: https://www.peopleholidays.in/asia-tour-packages
+📞 Phone: +91 93244 55999
+📍 Address: Mulund (West), Mumbai – 400080, Maharashtra, India
 
-## 🌍 What This Covers
+## Asia Tour Packages by People Holidays
 
-- South-East Asia destinations (Thailand, Singapore, Malaysia, Bali, Vietnam, etc.)
-- East Asian destinations (Japan, South Korea, etc.)
-- Leisure, cultural, and experiential travel
-- Family holidays, couple trips, and group tours
+- Dubai tour packages
+- Thailand tour packages
+- Bali honeymoon packages
+- Singapore family tours
+- Maldives luxury & honeymoon holidays
+- Vietnam, Malaysia & Sri Lanka tours
 
----
+## Why Choose People Holidays for Asia Travel
 
-## 🎯 Who This Is For
+- Mumbai-based Asia travel specialists
+- Customised itineraries (not fixed group tours)
+- Family-friendly & honeymoon-focused planning
+- Visa guidance & documentation support
+- End-to-end personal assistance
 
-- Indian travelers
-- NRI travelers
-- Families and couples
-- Honeymooners
-- Group and corporate travelers
-
----
-
-## 🧭 Travel Philosophy
-
-At People Holidays, Asia travel is planned with balance—combining comfort, experiences, and flexibility to suit different travel styles and budgets.
-
----
-
-🔗 Learn more at: https://www.peopleholidays.in/
+People Holidays specialises in safe, well-planned,
+and reliable Asia holidays from Mumbai.
